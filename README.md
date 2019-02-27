@@ -15,6 +15,10 @@ I wrote this shell program in C++ that utilizes fork, exec, open, and wait syste
 2) Open a terminal and navigate to the containing folder
 3) Type "make all" to compile, link, and run my shell (you will need GNU Make)
 
+# Screenshots
+
+![katieSHELL](https://github.com/krobinson1021/Shell/blob/master/screenshots/Screen%20Shot%202019-02-26%20at%205.20.54%20PM.png)
+
 # Disclaimer
 
 The splitOnString() and tokenize() functions were provided as part of my university assignment; the rest of the code is my own.
